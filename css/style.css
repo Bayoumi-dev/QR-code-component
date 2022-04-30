@@ -1,0 +1,48 @@
+/* Google Font - Outfit */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+/* Variables */
+:root {
+  /* Colors */
+  --colors-white: hsl(0, 0%, 100%);
+  --colors-light-gray: hsl(212, 45%, 89%); 
+  --colors-grayish-blue: hsl(220, 15%, 55%);
+  --colors-dark-blue: hsl(218, 44%, 22%);
+  /* Fonts */
+  --fonts-main: 'Outfit', sans-serif;
+}
+/* Global Rules  */
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  font-size: 15px;
+}
+body {
+  font-family: var(--fonts-main);
+  cursor: default;
+}
+/* Reset Some Elements */
+ul,
+ol {
+  list-style: none;
+}
+a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+  outline: none;
+  cursor: pointer;
+}
+button {
+  color: inherit;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
