@@ -9,7 +9,7 @@
 
 ## Overview
 
-This is a solution to the [QR-code-component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). The purpose of this challenge is to improve my coding skills by building realistic projects.
+This is a solution to the [QR-code-component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). The purpose of this challenge is to improve my coding skills by building realistic projects.
 
 ## Screenshot
 
